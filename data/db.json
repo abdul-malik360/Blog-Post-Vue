@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to the New Blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat iusto architecto labore reiciendis ratione, obcaecati distinctio, facere aperiam quas excepturi quisquam rerum minima placeat sit eaque assumenda. Animi nemo incidunt non asperiores et autem facere voluptatibus accusamus illum sunt est blanditiis molestiae id, omnis provident, quo perferendis fugiat doloribus. Dolor id consectetur quibusdam facere inventore beatae minima, fuga cumque blanditiis totam, dicta recusandae, perspiciatis dolorum deserunt! In eveniet placeat officiis similique maiores rem velit distinctio, ea illum ad harum laborum eligendi saepe totam perferendis veniam, assumenda voluptatibus inventore porro? Culpa sed officia fugit, ex quisquam animi earum repellat dolores optio!",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Top 5 CSS Tips",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat iusto architecto labore reiciendis ratione, obcaecati distinctio, facere aperiam quas excepturi quisquam rerum minima placeat sit eaque assumenda. Animi nemo incidunt non asperiores et autem facere voluptatibus accusamus illum sunt est blanditiis molestiae id, omnis provident, quo perferendis fugiat doloribus. Dolor id consectetur quibusdam facere inventore beatae minima, fuga cumque blanditiis totam, dicta recusandae, perspiciatis dolorum deserunt! In eveniet placeat officiis similique maiores rem velit distinctio, ea illum ad harum laborum eligendi saepe totam perferendis veniam, assumenda voluptatibus inventore porro? Culpa sed officia fugit, ex quisquam animi earum repellat dolores optio!",
+      "tags": [
+        "css",
+        "webdev",
+        "coding"
+      ]
+    },
+    {
+      "title": "MR Mister",
+      "body": "Mucho muchness",
+      "tags": [
+        "dikding",
+        "coolkid",
+        "imagekid"
+      ],
+      "id": 3
+    },
+    {
+      "title": "MR Mister",
+      "body": "Mucho muchness",
+      "tags": [
+        "dikding",
+        "coolkid",
+        "imagekid"
+      ],
+      "id": 4
+    },
+    {
+      "title": "sfdas",
+      "body": "fsafsaf",
+      "tags": [
+        "safas"
+      ],
+      "id": 5
+    }
+  ]
+}
