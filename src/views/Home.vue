@@ -47,8 +47,8 @@ import TagCloud from "../components/TagCloud.vue";
 import getPosts from "../composables/getPosts";
 import Spinner from "../components/Spinner.vue";
 
-import { ref, reactive, computed } from "@vue/reactivity";
-import { watch, watchEffect } from "@vue/runtime-core";
+// import { ref, reactive, computed } from "@vue/reactivity";
+// import { watch, watchEffect } from "@vue/runtime-core";
 export default {
   name: "Home",
   components: { PostList, Spinner, TagCloud },

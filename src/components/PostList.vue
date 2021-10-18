@@ -8,19 +8,22 @@
 </template>
 
 <script>
-import { onMounted, onUnmounted, onUpdated } from "@vue/runtime-core";
+// import { onMounted, onUnmounted, onUpdated } from "@vue/runtime-core";
 import SinglePost from "./SinglePost.vue";
 export default {
   props: ["posts"],
 
   components: { SinglePost },
-
-  setup(props) {
-    // console.log(props.posts);
-    onMounted(() => console.log("component mounted"));
-    onUnmounted(() => console.log("component Unmounted"));
-    onUpdated(() => console.log("component updated"));
+  setup() {
+    // console.log(this.posts);
   },
+
+  // setup(props) {
+  //   // console.log(props.posts);
+  //   onMounted(() => console.log("component mounted"));
+  //   onUnmounted(() => console.log("component Unmounted"));
+  //   onUpdated(() => console.log("component updated"));
+  // },
 };
 </script>
 
